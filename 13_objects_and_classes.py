@@ -1,2 +1,2 @@
-name = len('fernando')
-print(name)
+nome = "Fernando".replace('e', 'a')
+print(nome)
